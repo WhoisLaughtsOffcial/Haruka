@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // self or public
-global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
-global.anticall = false
-global.anti_delete = false
+global.self = truw //jadiin true klo gk mau fitur bot lu di pke sama org lain
+global.anticall = true
+global.anti_delete = true
 
 // setting
-global.ownername ="ZeeoneOfc"
-global.ownernumber = "62887435047326"
-global.botname = "Haruka-Bot"
+global.ownername ="WhoIsLaughts"
+global.ownernumber = "51902679067"
+global.botname = "EmperoBot"
 global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
 global.lolkey = 'e966d3aac613b61dabd35cc6' //register lolhuman.xyz klo mau apikey
