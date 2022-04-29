@@ -12,7 +12,7 @@ global.ownernumber = "51902679067"
 global.botname = "EmperoBot"
 global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
-global.lolkey = 'e966d3aac613b61dabd35cc6' //register lolhuman.xyz klo mau apikey
+global.lolkey = '3f60a8f5be1b233d7bd90c3c' //register lolhuman.xyz klo mau apikey
 global.zenzkey = '8423e19c13' //register zenzapi.xyz klo mau apikey
 global.limit = {
 		free:20,
